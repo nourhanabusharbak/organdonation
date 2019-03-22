@@ -1,0 +1,12 @@
+.homeImage{
+    background-image: url("src/assets/homeBack.jpg");
+    height: 800px;
+    background-size: cover;
+background-repeat: no-repeat;
+}
+
+h1{
+    color: white;
+    font-weight: 900;
+    font-size: 4rem;
+}

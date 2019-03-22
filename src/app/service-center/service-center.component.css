@@ -1,0 +1,60 @@
+.mainCols{
+    
+    min-height: 500px;
+    
+}
+
+.col1{
+    background-image: url("src/assets/firstBack.PNG");
+    background-repeat: no-repeat;background-size: cover;
+    border-radius: 6px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 20px;
+    overflow-x: hidden;
+
+ }
+.col2{
+    background-image: url("src/assets/secondBack.PNG");
+    background-repeat: no-repeat; background-size: cover;
+    border-radius: 6px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 20px;
+    overflow-x: hidden;
+
+ }
+.col3{
+    background-image: url("src/assets/thirdBack.PNG");
+    background-repeat: no-repeat;background-size: cover;
+    border-radius: 6px; 
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 20px;
+    overflow-x: hidden;
+
+ }
+.col4{
+    background-image: url("src/assets/fourthBack.PNG");
+    background-repeat: no-repeat;background-size: cover;
+    border-radius: 6px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 20px;
+    overflow-x: hidden;
+
+ }
+
+.col1:hover ,.col2:hover , .col3:hover , .col4:hover {
+      box-shadow: 3px 3px 8px grey, 5px 5px 8px grey; 
+}
+.serviceButtons{
+    color: white;
+    background-color: #e52f2d;
+    width: 100%;
+    height: 60px;
+    font-size: 1.7rem;
+    border:0px solid #e52f2d;
+    margin-top: 350px;
+    overflow-x: hidden;
+}

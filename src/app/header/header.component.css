@@ -1,0 +1,25 @@
+
+.loginBtn{
+    background-color: #f8f9fa;
+    border:0px solid #f8f9fa;
+    font-size: 1.5rem;
+    padding-right: 6px;
+    margin-right: 20px;
+
+}
+
+.loginBtn:hover{
+    border-bottom: 1px solid #e52f2d;
+    color: #e52f2d;
+    
+}
+
+.SignUpBtn{
+    background-color: #212529;
+    border:1px solid #212529;
+    font-size: 1.5rem;
+    border-radius: 6px;
+    color: white;
+    
+    
+}
